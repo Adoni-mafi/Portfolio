@@ -205,3 +205,8 @@ body {
 .dark-mode .card h1 {
     color: white !important;
 }
+.dark-mode .flip-image {
+    box-shadow:
+        0 0 50px rgb(2, 129, 19),
+        0 0 45px rgb(22, 124, 1) !important;
+}
